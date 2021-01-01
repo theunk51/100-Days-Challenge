@@ -17,6 +17,11 @@ So the reasoen thaht I wanted to do this challenge was becasue I really enjoy pr
 - [ ] finsih learning TensorFlow and Djanjgo
 - [ ] learn 3 advanced python concepts
 - [ ] https://www.101computing.net/blackjack-challenge/
-- [ ] networking with python
+- [ ] networking with python 
+- [ ] learn how to use APIs
+- [ ] create a Gmail programm that sorts Emails ad catorgizes them
+- [ ] make a flashcard app
+- [ ] learn basic JavaScript
+
 
 
