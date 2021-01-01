@@ -1,6 +1,9 @@
 # 100daysofcode - Round 1 Amyah Brown
 This challenge started on Friday, January 1st, 2021.
 
+## Rules
+- program for at least an hour a day
+- movitave other people 
 
 ### Thursday, December 31st, 2020 
 (technically wrotten on teh first but its just a note thaht I want to make)
