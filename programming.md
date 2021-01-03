@@ -27,4 +27,8 @@ So the reasoen thaht I wanted to do this challenge was becasue I really enjoy pr
 - [ ] learn basic JavaScript
 
 
+### Day 1 - Jan 1st,  2021
+so I didnt exactly kee up with the challegen because I haven't written a log for the past 2 days. So today I did a codewars katas and I started to make a game named "Don't Fall".
 
+### Day 2 - Jan 2nd
+I looked at the PEP8, learned a little bit of JavaScript, Watched a tutorail about Java classes and method, watched Joma's 'If Programming was an amine" , Continue to work on Don't Fall. Did he first example in the book "Real-World Python: A Hacker's Guide to Solving Problems with Code" by Lee Vuagh.
