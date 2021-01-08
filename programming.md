@@ -32,3 +32,18 @@ so I didnt exactly kee up with the challegen because I haven't written a log for
 
 ### Day 2 - Jan 2nd
 I looked at the PEP8, learned a little bit of JavaScript, Watched a tutorail about Java classes and method, watched Joma's 'If Programming was an amine" , Continue to work on Don't Fall. Did he first example in the book "Real-World Python: A Hacker's Guide to Solving Problems with Code" by Lee Vuagh.
+
+### Day 7 - Jan 7th 
+- worked on a java Kata
+- did a python kata
+- started to build a text editor 
+### Day 8 - Jan 8th
+Yeah, I know I haven't unpdated this in a while but I promse thaht I hva be programming everyday, mostly java. I jsut came to erite down a new project.
+- create a system that takes data from itself and from sites like Anki, Memerise, HTSK, Quizlet, etc. ( basically any site I use to study Korean) and exports to a google sheet (or excel) and can be easily organized. ( I shall name it PyKor (cringey, I know))
+        - [] google sheets api and RESTApi
+        - [] pandas
+        - [] JSON files
+        - [] editing git repos
+ I made this project because I wanted to do something thath would help me study Korean. Aslo, I feel as if this 100 day challenge isn't really anything special bc its bascially what I do everyday. The next project could be something about a database for all my projects. 
+  I think I'm going to move my focous onto Java soon. I won't be fully dropping Python, but I think I know enough about it to move onto another language. I eill still eb learning oython but onl passively. I also feel like I don't do enough programming projects. for exaple, when i want to create soemthing, I kinde buffer bc I think I panic bc its not somethng that I do a lot. 
+  Also, I need to spend more time on Korean bc I haven't really done anything thath I said I would throughout this challange. I should probally focus more on vocab because I know enogh grammar to be considered imtermeidate, but vocab is beginneer. That's kind of the reason that I'm creating PyKor. IT's not only a programming project covering many Python topics, but its also supposed to help me study Korean. Basically, I'm automating the boring stuff. Hopefully this takes only about 2-3 weeks with time to sstudy korean, practice my solo, and work on school. I should increase the the time I study korean to 1.5 to 2 hours because I wasnt ot be advecnded befroe i finish highschool and the year is alomst over. 
