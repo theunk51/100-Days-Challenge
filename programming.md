@@ -62,3 +62,8 @@ Goals:
 - [ ] move to Java 
 
 About the move to Java: I'm not saying thaht I know everything about python, becasue thaht is far from truw, but I have a solid foundation in it, so its okay to learn anther languange a get a solid foundation. As a get older I'm going to learn more anyway so I might as well do this soI have a solid knowledge.
+
+
+### Day 18 - Jan 18th
+Okay. So its been a while and I haven't been constitinelty updating this like a said I would but its better that I didn't. I an goung to start working on the codebase thath I wanted to create> I feel ike I need to use github more becasueit would be a better place storemy coude than repl.it. And  I think that I dont need a code base but more ofaplace whre i can keep my snippets and files stored. This is actually how is discoverd Gitpod. Its an IDE exstion of Github thath alows your to run adn test your code, adn when your done, it take you back to github. Aslo, i should learn how to use `.gitnore` bc it might be useful.Its just that GitHub and repl are both easily accessible, but repl is an IDE so it takes precedence over GitHub. 
+    Anyway, I going to start subtly wroking on the  classroom thing along with cubo.
